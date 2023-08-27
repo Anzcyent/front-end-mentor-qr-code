@@ -6,7 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Links](#links)
 - [Built with](#built-with)
-- [What I learned](#what-i-learned)
 - [Author](#author)
 
 ### Links
@@ -21,5 +20,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://anzcyent.onrender.com)
+- Website - [Cihan Özcan](https://anzcyent.onrender.com)
 - Frontend Mentor - [@Anzcyent](https://www.frontendmentor.io/profile/Anzcyent)
